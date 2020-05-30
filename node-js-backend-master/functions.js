@@ -2,15 +2,15 @@
 const changeName = ( name, surname)=>{
     console.log("Hello " + name + " " + surname + "!!");
 };
-changeName("kostas","Takas");
+changeName("Peter","Takas");
 
 
-changeName("George","Pagonoudis");
+changeName("Pete","Peter");
 let name2 ="Dimos";
-let surname2 ="Karadimos";
+let surname2 ="Peter";
 
-let name3 ="Giannis";
-let surname3 ="Papadopoulos";
+let name3 ="Peter";
+let surname3 ="Peter";
 
 const square = (x)=>{
     console.log(x*x);
